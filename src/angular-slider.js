@@ -1061,7 +1061,7 @@ angular.module('vr.directives.slider', ['ngTouch']).directive('slider',
                                     var bubToAdjust = refs.lowBub;
 
                                     // make sure the low value bubble is actually within the slider
-                                    fitToBar(refs.lowBub);
+                                    // fitToBar(refs.lowBub);
 
                                     if(isDualKnob) {
                                         // this is a dual knob slider

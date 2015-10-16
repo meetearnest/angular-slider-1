@@ -1,5 +1,5 @@
 {
-    "name": "angular-slider",
+    "name": "@meetearnest/angular-slider",
     "version": "0.3.2",
     "description": "Slider directive for AngularJS.",
     "main": "",
